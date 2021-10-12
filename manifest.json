@@ -1,0 +1,11 @@
+{
+  "name": "Status Collection",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "description": "Status Collection Extension",
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "storage"
+  ],
+  "content_security_policy": "script-src 'self' https://cdn.jsdelivr.net; object-src 'self'"
+}

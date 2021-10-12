@@ -1,0 +1,6 @@
+@media (prefers-color-scheme: dark) {
+  .themed {
+    background: white;
+    color: black;
+  }
+}
